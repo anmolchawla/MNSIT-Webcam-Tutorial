@@ -3,8 +3,8 @@ A small Deep Learning Image recognition tutorial aimed at people just starting o
 
 Also, if you wish to run it in your local system or Ipython Notebook, you will need to change the code for the webcam. As it become host specific, otherwise everything else remains the same. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/Bx4o4ySijSo/0.jpg)]
-(https://www.youtube.com/watch?v=https://youtu.be/Bx4o4ySijSo)
+
+
 
 1. Youtube Link: https://youtu.be/Bx4o4ySijSo
 2. Github: https://github.com/anmolchawla/MNSIT-Webcam-Tutorial
